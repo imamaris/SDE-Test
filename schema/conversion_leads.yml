@@ -1,0 +1,8 @@
+- name: number_of_traffic
+  type: INTEGER
+- name: number_of_leads
+  type: INTEGER
+- name: number_of_signings
+  type: INTEGER
+- name: date
+  type: DATE

@@ -1,0 +1,8 @@
+- name: property_code
+  type: STRING
+- name: rukita_option
+  type: BOOLEAN
+- name: occupancy
+  type: FLOAT
+- name: date
+  type: DATETIME
